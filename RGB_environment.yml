@@ -1,0 +1,9 @@
+name: RGB_env
+channels:
+  - http://ssb.stsci.edu/astroconda
+  - defaults
+dependencies:
+  - pip
+  - nb_conda_kernels
+  - ipykernel
+prefix: /anaconda3/envs/RGB_env
